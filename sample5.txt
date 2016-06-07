@@ -1,3 +1,5 @@
 adding some information for checking new branch
 
 New branch checkout bt samara
+
+second time testing with branch options
